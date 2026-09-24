@@ -1,0 +1,10 @@
+# Quarto temporary files and rendered website
+.quarto/
+/_site/
+
+# Local Quarto configuration overrides
+/_quarto.yml.local
+/_quarto.yaml.local
+
+# macOS metadata
+.DS_Store
